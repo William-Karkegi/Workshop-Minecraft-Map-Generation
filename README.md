@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=w_DNSNC-IzY
 
 # Etape 1 : Création du projet
 
-- Depuis Unity Hub vous pouvez cliquer sur le boutton : "New project"
-- Il va vous proposez plusieurs template, choissiez : "3D Core"
+- Depuis Unity Hub vous pouvez cliquer sur le bouton : "New project"
+- Il va vous proposer plusieurs template, choisissez : "3D Core"
 
 # Etape 2 : Mise en place du template
 
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=w_DNSNC-IzY
 
 # Etape 4 : Analyse du code ensemble
 
-- Comme vous le divinez nous allons analyser le code qui est fournis ensemble
+- Comme vous pouvez le deviner nous allons analyser le code qui est fourni ensemble
 
 # Etape 5 : Remplissage des parties manquantes
 
@@ -37,8 +37,8 @@ https://www.youtube.com/watch?v=w_DNSNC-IzY
 # Etape 6 : Modification du code pour tester de nouvelles choses
 
 - Dans cette dernière étape vous allez pouvoir modifier tout le code
-- Le but est de s'amuser et qu'à la fin du workshop on puisse élire celui qui a la meilleur modification !
+- Le but est de s'amuser et qu'à la fin du workshop on puisse élire celui qui a la meilleure modification !
 
 # Etape 7 : Merci !
 
-- Merci beaucoup d'avoir assisté à ce workshop, j'espère qu'il vous aura plus autant qu'à moi de le concevoir :)
+- Merci beaucoup d'avoir assisté à ce workshop, j'espère qu'il vous aura plu autant qu'à moi de le concevoir :)
